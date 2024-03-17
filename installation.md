@@ -9,13 +9,12 @@ npm create vite@latest
 npm install
 ```
 
-Run the application in the development environment
+### Run the application in the development environment
 ```
 npm run dev
 ```
 
-
-Run the application in the production environment
+### Run the application in the production environment
 ```
 npm run build
 ```
