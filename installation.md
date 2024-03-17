@@ -4,6 +4,22 @@
 npm create vite@latest
 ```
 
+### Install on the dependencies 
+```
+npm install
+```
+
+Run the application in the development environment
+```
+npm run dev
+```
+
+
+Run the application in the production environment
+```
+npm run build
+```
+
 #### navigate to dart_web
 ```
 cd dart_web
